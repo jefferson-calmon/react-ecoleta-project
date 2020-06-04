@@ -6,6 +6,7 @@
   <p>
     Projeto feito com ReactJS & JavaScript na semana do Next Level Week (NLW)
   </p>
+</div>
 
 ## Sobre
 
@@ -17,4 +18,3 @@ Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sab
 
 **Esse README ainda está em desenvolvimento**
     
-</div>
