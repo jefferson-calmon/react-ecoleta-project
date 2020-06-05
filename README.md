@@ -12,7 +12,7 @@
 
 Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sabem a maneira certa de descartar o lixo com companias de reciclagem, descarte de óleo e etc. Esse lixo pode ser pilhas, residuos orgânicos, óleo e muito mais.
 
-## Tecnologias Usadas
+## :computer: Tecnologias usadas
 
 * ReactJS
 * React Native
