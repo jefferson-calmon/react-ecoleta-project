@@ -20,5 +20,7 @@ Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sab
 * Knex
 * Teaflet
 
+Obs: Clique aqui para ver as dependencias
+
 **Esse README ainda está em desenvolvimento**
     
