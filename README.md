@@ -16,13 +16,9 @@ Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sab
 
 * ReactJS
 * React Native
-* TypeScript 
-
-* Dependencias
-  * Knex
-  * TypeScript
-  * Sqlite3
-
+* TypeScript
+* Knex
+* Teaflet
 
 **Esse README ainda está em desenvolvimento**
     
