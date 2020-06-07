@@ -23,11 +23,14 @@ Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sab
 * Expo
 
 
-## Como usar
+## :dart: Como usar
 
 Para usar rodar as aplicações é nescessario ter instalado na sua maquina o Node.js e o Git. Depois basta seguir os passos a seguir.
 
-Antes de tudo, é nescessario você instalar as dependencias
+Antes de tudo, é nescessario você instalar as dependencias. Para isso basta rodar o seguinte comando em seu terminal/prompt.
+```
+git clone https://jefferson-calmon.github.io
+```
 
 ### Back-end
 
