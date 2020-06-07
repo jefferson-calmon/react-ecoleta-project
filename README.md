@@ -6,6 +6,8 @@
   <p>
     Projeto feito com ReactJS & JavaScript na semana do Next Level Week (NLW)
   </p>
+
+  <img src="images/capa.png">
 </div>
 
 ## :books: Sobre
