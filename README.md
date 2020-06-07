@@ -27,10 +27,15 @@ Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sab
 
 Para usar rodar as aplicações é nescessario ter instalado na sua maquina o Node.js e o Git. Depois basta seguir os passos a seguir.
 
-Antes de tudo, é nescessario você instalar as dependencias. Para isso basta rodar o seguinte comando em seu terminal/prompt.
+Antes de tudo, é nescessario você instalar as dependencias. Para isso basta rodar os seguintes comandos em seu terminal/prompt.
 ```
 git clone https://jefferson-calmon.github.io
 ```
+```
+cd ecoleta
+```
+
+Depois disto 
 
 ### Back-end
 
