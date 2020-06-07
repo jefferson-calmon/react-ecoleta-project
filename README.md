@@ -30,10 +30,10 @@ Para usar rodar as aplicações é nescessario ter instalado na sua maquina o No
 Antes de tudo, é nescessario você instalar as dependencias. Para isso basta rodar os seguintes comandos em seu terminal/prompt.
 
 ```shell
-  # Vai clonar a pasta do projeto para a sua maquina
+# Vai clonar a pasta do projeto para a sua maquina
 git clone https://jefferson-calmon.github.io 
 
-  # Vai abrir a pasta do projeto
+# Vai abrir a pasta do projeto
 cd ecoleta
 
 # Vai abrir um arquivo em lotes e instalar todas as dependencias. Esse processo vai demorar um pouco não feche o terminal.
@@ -48,5 +48,29 @@ Obs: Caso tenha queira instalar as dependencias manualmente veja (aqui)[] quais 
 Para iniciar o back-end é muito simples. Execute os comandos abaixo.
 
 ``` shell
+# Abrir a pasta do back-end
+cd server
 
+# Iniciar o back-end
+npm run dev
+
+# A API estara rodando na porta 3333 em localhost
 ```
+
+Pronto!! O back-end já está rodando!! Agora você precisa iniciar o Front-end.
+
+## Front-end
+
+Para você poder acessar o site você precisa deixar ele online. Abra outro terminal e execute os comandos abaixo. Obs: Não feche o terminal que está rodando o back-end.
+
+```shell
+# Vai abrir a pasta do site
+cd ../web
+
+# Vai iniciar um server local com o site.
+npm start
+
+# Depois disto vai abrir um página no seu navegador rodando o site.
+```
+
+Pronto!! Agora já temos o back-end e o site fucionando.
