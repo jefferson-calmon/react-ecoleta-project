@@ -34,7 +34,10 @@ Antes de tudo, é nescessario você instalar as dependencias. Para isso basta ro
 git clone https://jefferson-calmon.github.io 
 
 # Vai abrir a pasta do projeto
-cd ecoleta 
+cd ecoleta
+
+# Vai abrir um arquivo em lotes e instalar todas as dependencias. Esse processo pode demorar um pouco não feche o terminal.
+install-dependencies.bat
 ```
 
 Depois disto 
