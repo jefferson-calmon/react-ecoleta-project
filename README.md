@@ -30,11 +30,11 @@ Para usar rodar as aplicações é nescessario ter instalado na sua maquina o No
 Antes de tudo, é nescessario você instalar as dependencias. Para isso basta rodar os seguintes comandos em seu terminal/prompt.
 
 ```shell
-# Vai clonar a pasta do projeto para a sua maquina
-  git clone https://jefferson-calmon.github.io 
+  # Vai clonar a pasta do projeto para a sua maquina
+git clone https://jefferson-calmon.github.io 
 
-# Vai abrir a pasta do projeto
-  cd ecoleta
+  # Vai abrir a pasta do projeto
+cd ecoleta
 
 # Vai abrir um arquivo em lotes e instalar todas as dependencias. Esse processo vai demorar um pouco não feche o terminal.
 install-dependencies.bat
