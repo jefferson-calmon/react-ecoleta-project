@@ -25,7 +25,7 @@ Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sab
 
 ## :dart: Como usar
 
-Para usar rodar as aplicações é nescessario ter instalado na sua maquina o Node.js e o Git. Depois basta seguir os passos a seguir.
+Para usar rodar as aplicações é nescessario ter instalado na sua maquina o (Node.js)[https://nodejs.org/en/download/] e o (Git)[https://git-scm.com/downloads]. Depois basta seguir os passos a seguir.
 
 Antes de tudo, é nescessario você instalar as dependencias. Para isso basta rodar os seguintes comandos em seu terminal/prompt.
 
@@ -59,13 +59,13 @@ npm run dev
 
 Pronto!! O back-end já está rodando!! Agora você precisa iniciar o Front-end.
 
-## Front-end
+### Front-end
 
-Para você poder acessar o site você precisa deixar ele online. Abra outro terminal e execute os comandos abaixo. Obs: Não feche o terminal que está rodando o back-end.
+Para você poder acessar o site você precisa deixar ele online. Abra outro terminal e navegue até onde está a pasta do projeto ecoleta e execute os comandos abaixo. Obs: Não feche o terminal que está rodando o back-end.
 
 ```shell
 # Vai abrir a pasta do site
-cd ../web
+cd web
 
 # Vai iniciar um server local com o site.
 npm start
@@ -74,3 +74,25 @@ npm start
 ```
 
 Pronto!! Agora já temos o back-end e o site fucionando.
+
+### Mobile
+
+Para você testar o app será preciso instalar um app chamado (Expo)[https://play.google.com/store/apps/details?id=host.exp.exponent]. Ele irá servir como simulador para o app. 
+
+Depois abra mais um terminal e execute os comandos abaixo.
+
+````
+# Vai abrir a pasta com os arquivos do mobile
+cd mobile
+
+Vai iniciar mais um servidor local 
+npm start
+```
+
+Depois desses comandos ira abrir no seu navegador uma página com algumas informações. Abra o app do expo em seu celular e escaneie o QRcode. Proto!! Depois de carregar irá abrir o app.
+
+## License
+
+Este repositório usa a licensa MIT. Por favor leia a licensa.
+
+Feito por Jefferson Ferrari :bomb:
