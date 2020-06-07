@@ -31,17 +31,22 @@ Antes de tudo, é nescessario você instalar as dependencias. Para isso basta ro
 
 ```shell
 # Vai clonar a pasta do projeto para a sua maquina
-git clone https://jefferson-calmon.github.io 
+  git clone https://jefferson-calmon.github.io 
 
 # Vai abrir a pasta do projeto
-cd ecoleta
+  cd ecoleta
 
-# Vai abrir um arquivo em lotes e instalar todas as dependencias. Esse processo pode demorar um pouco não feche o terminal.
+# Vai abrir um arquivo em lotes e instalar todas as dependencias. Esse processo vai demorar um pouco não feche o terminal.
 install-dependencies.bat
 ```
 
-Depois disto 
+Depois disto vamos iniciar o back-end.
+Obs: Caso tenha queira instalar as dependencias manualmente veja (aqui)[] quais são nescessarias.
 
 ### Back-end
 
-Primeiro vamo iniciar o server
+Para iniciar o back-end é muito simples. Execute os comandos abaixo.
+
+``` shell
+
+```
