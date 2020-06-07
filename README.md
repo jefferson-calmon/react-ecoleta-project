@@ -16,13 +16,19 @@ Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sab
 
 ## :artificial_satellite: Tecnologias usadas
 
+* Node.js
+* JavaScript/TypeScript
 * ReactJS
 * React Native
-* TypeScript
-* Knex
-* Teaflet
+* Expo
 
-Obs: Clique aqui para ver as dependencias
 
-**Esse README ainda está em desenvolvimento**
-    
+## Como usar
+
+Para usar rodar as aplicações é nescessario ter instalado na sua maquina o Node.js e o Git. Depois basta seguir os passos a seguir.
+
+Antes de tudo, é nescessario você instalar as dependencias
+
+### Back-end
+
+Primeiro vamo iniciar o server
