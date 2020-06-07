@@ -25,7 +25,7 @@ Ecoleta é um projeto baseado na NLW. Ele conecta pessoas que querem ou não sab
 
 ## :dart: Como usar
 
-Para usar rodar as aplicações é nescessario ter instalado na sua maquina o (Node.js)[https://nodejs.org/en/download/] e o (Git)[https://git-scm.com/downloads]. Depois basta seguir os passos a seguir.
+Para usar rodar as aplicações é nescessario ter instalado na sua maquina o [Node.js](https://nodejs.org/en/download/) e o [Git](https://git-scm.com/downloads). Depois basta seguir os passos a seguir.
 
 Antes de tudo, é nescessario você instalar as dependencias. Para isso basta rodar os seguintes comandos em seu terminal/prompt.
 
@@ -41,7 +41,7 @@ install-dependencies.bat
 ```
 
 Depois disto vamos iniciar o back-end.
-Obs: Caso tenha queira instalar as dependencias manualmente veja (aqui)[] quais são nescessarias.
+Obs: Caso tenha queira instalar as dependencias manualmente, abra o arquivo ```install-dependencies.bat``` detro da pasta ecoleta e veja as dependencias que são nescessarias.
 
 ### Back-end
 
@@ -77,11 +77,11 @@ Pronto!! Agora já temos o back-end e o site fucionando.
 
 ### Mobile
 
-Para você testar o app será preciso instalar um app chamado (Expo)[https://play.google.com/store/apps/details?id=host.exp.exponent]. Ele irá servir como simulador para o app. 
+Para você testar o app será preciso instalar um app chamado [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent). Ele irá servir como simulador para o app. 
 
 Depois abra mais um terminal e execute os comandos abaixo.
 
-````
+```shell
 # Vai abrir a pasta com os arquivos do mobile
 cd mobile
 
