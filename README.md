@@ -29,7 +29,7 @@ Para usar rodar as aplicações é nescessario ter instalado na sua maquina o No
 
 Antes de tudo, é nescessario você instalar as dependencias. Para isso basta rodar os seguintes comandos em seu terminal/prompt.
 
-```
+```shell
 # Vai clonar a pasta do projeto para a sua maquina
 git clone https://jefferson-calmon.github.io 
 
