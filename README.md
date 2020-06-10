@@ -9,3 +9,18 @@
 <img src="images/tictactoe-banner.png"  />
 
 </div>
+
+## Como usar
+
+Você pode acessar a aplicação neste link [aqui](https://jefferson-calmon.github.io/portfolio)
+
+Caso queira rodar rodar o game em sua maquina, basta abrir uma janela do seu terminal(bash/cmd/powershell) e executar o seguintes comandos abaixo.
+
+```shell
+# primeiro clone este repositório
+git clone https://github.com/jefferson-calmon/tic-tac-toe_react.git
+
+# Depois entre na pasta do projeto
+cd tic-tac-toe_react
+
+```
