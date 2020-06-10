@@ -3,7 +3,7 @@
 
 
 <p>
-    O joginho Tic Tac Toe criado a partir do tutorial do ReactJS com algumas alterações no design e fucionalidades adicionais.
+    O joginho Tic Tac Toe criado a partir do tutorial do ReactJS com algumas alterações no design e fucionalidades adicionais. Desenvolvido com ReactJS.
 </p>
 
 <img src="images/tictactoe-banner.png"  />
@@ -34,7 +34,7 @@ npm install react-dom
 
 Pronto agora basta iniciar o projeto. Para isto execute:
 
-```
+```shell
 npm start
 ```
 
@@ -42,4 +42,4 @@ npm start
 
 Este repositório ultiliza a MIT license. Por favor leia a licensa.
 
-Feito com :heart: por [Jefferson Ferrari](htt)
+Feito com :heart: por [Jefferson Ferrari](https://www.linkedin.com/in/jefferson-f-b24248191/)
