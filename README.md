@@ -16,6 +16,8 @@ Você pode acessar a aplicação neste link [aqui](https://jefferson-calmon.gith
 
 Caso queira rodar rodar o game em sua maquina, basta abrir uma janela do seu terminal(bash/cmd/powershell) e executar o seguintes comandos abaixo.
 
+Obs: Para rodar a aplicação localmente é necessário ter instalado o [Node.js](https://nodejs.org/en/download/)
+
 ```shell
 # primeiro clone este repositório
 git clone https://github.com/jefferson-calmon/tic-tac-toe_react.git
@@ -23,4 +25,21 @@ git clone https://github.com/jefferson-calmon/tic-tac-toe_react.git
 # Depois entre na pasta do projeto
 cd tic-tac-toe_react
 
+# Agora será necessário instalar as dependencias do projeto
+npm install react
+
+npm install react-dom
+
 ```
+
+Pronto agora basta iniciar o projeto. Para isto execute:
+
+```
+npm start
+```
+
+## :scroll: License
+
+Este repositório ultiliza a MIT license. Por favor leia a licensa.
+
+Feito com :heart: por [Jefferson Ferrari](htt)
