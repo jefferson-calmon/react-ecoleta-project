@@ -16,3 +16,4 @@ ind = 0
 while ind < number:
     editFile(ind)
     ind += 1
+os.system('git push')
