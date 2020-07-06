@@ -28,6 +28,7 @@ Para ser criado esse projeto foi nescessário as seguintes tecnologias:
 
 - Dart
 - Flutter
+- Unity
 
 
 <a id="conclusion"></a>
@@ -42,7 +43,7 @@ Venham fazer parte desse futuro também.
 
 <a id="license"></a>
 
-## :scroll: Time
+## :man_technologist: Time
 
 O nosso time é composto pelos seguintes integrantes:
 
