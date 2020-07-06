@@ -5,13 +5,13 @@
 <a href="#about">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#tech">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#conclusion">Conclusão</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#license">Licença</a>
+<a href="#license">Time</a>
 </p>
 </div>
 
+<a id="about"></a>
 
 ## :book: Sobre o projeto
-<a id="about"></a>
 
 O Mercado AR é uma opção para aqueles que querem comprar pela internet, mas tem medo de não chegar exatamente aquilo que comprou.
 
@@ -19,21 +19,39 @@ Com o Mercado AR as pessoas poderão ver os seus produtos em sua casa direto pel
 
 Veja uma página de exemplo clicando [aqui](https://mercado-ar.netlify.app/)
 
-## :artificial_satelite: Tecnologias
+
 <a id="tech"></a>
+
+## :artificial_satellite: Tecnologias
 
 Para ser criado esse projeto foi nescessário as seguintes tecnologias:
 
 - Dart
 - Flutter
 
-## :dart: Conclusão
+
 <a id="conclusion"></a>
+
+## :dart: Conclusão
 
 A conclusão desse projeto é que, esse sistema facilitaria muito a vida das pessoas, além de gerar uma melhor experiência para o cliente no qual, seria possível uma captura de valor.
 
 Venham fazer parte desse futuro também.
 
-## :scroll: Licença
 
-Este repositório usa a 
+
+<a id="license"></a>
+
+## :scroll: Time
+
+O nosso time é composto pelos seguintes integrantes:
+
+- [Matheus Kildere](https://www.linkedin.com/in/matheus-kildere-35947618b/)
+
+- [Brandow Buenos](https://www.linkedin.com/in/brandowbuenos/)
+
+- [Jhonatan Costa](https://www.linkedin.com/in/jhonatan-costa-1b6074174/)
+
+- [Pedro Tcheu](https://www.linkedin.com/in/pedro-tcheu/)
+
+- [Jefferson Ferrari](https://www.linkedin.com/in/jefferson-f-b24248191/)
