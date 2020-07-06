@@ -9,8 +9,9 @@
 </p>
 </div>
 
-<section id="about"></section>
+
 ## :book: Sobre o projeto
+<a id="about"></a>
 
 O Mercado AR é uma opção para aqueles que querem comprar pela internet, mas tem medo de não chegar exatamente aquilo que comprou.
 
