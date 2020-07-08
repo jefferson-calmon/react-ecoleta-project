@@ -15,7 +15,7 @@
 
 O Mercado AR é uma opção para aqueles que querem comprar pela internet, mas tem medo de não chegar exatamente aquilo que comprou.
 
-Com o Mercado AR as pessoas poderão ver os seus produtos em sua casa direto pela tela do seu celular, e o melhor, sem nem mesmo comprar-lo.
+cado AR as pessoas poderão ver os seus produtos em sua casa direto pela tela do seu celular, e o melhor, sem nem mesmo comprar-lo.
 
 Veja uma página de exemplo clicando [aqui](https://mercado-ar.netlify.app/)
 
@@ -24,7 +24,7 @@ Veja uma página de exemplo clicando [aqui](https://mercado-ar.netlify.app/)
 
 ## :artificial_satellite: Tecnologias
 
-Para ser criado esse projeto foi nescessário as seguintes tecnologias:
+Para ser criado esse projeto foi necessário as seguintes tecnologias:
 
 - Dart
 - Flutter
