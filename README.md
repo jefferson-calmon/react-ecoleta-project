@@ -56,4 +56,4 @@ O nosso time é composto pelos seguintes integrantes:
 - [Pedro Tcheu](https://www.linkedin.com/in/pedro-tcheu/)
 
 - [Jefferson Ferrari](https://www.linkedin.com/in/jefferson-f-b24248191/)
-Teste Planejado`0
+Teste Planejado`0Teste Planejado`0
