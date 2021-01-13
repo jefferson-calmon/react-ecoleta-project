@@ -1,59 +1,21 @@
-<div align="center">
-    <img src="./images-readme/Mercado_AR.png">
 
-<p align="center">
-<a href="#about">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#tech">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#conclusion">Conclus√£o</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#license">Time</a>
-</p>
-</div>
-
-<a id="about"></a>
-
-## :book: Sobre o projeto
-
-O Mercado AR √© uma op√ß√£o para aqueles que querem comprar pela internet, mas tem medo de n√£o chegar exatamente aquilo que comprou.
-
-cado AR as pessoas poder√£o ver os seus produtos em sua casa direto pela tela do seu celular, e o melhor, sem nem mesmo comprar-lo.
-
-Veja uma p√°gina de exemplo clicando [aqui](https://mercado-ar.netlify.app/)
+Configuraá∆o de IP do Windows
 
 
-<a id="tech"></a>
+Adaptador Ethernet Conex∆o local:
 
-## :artificial_satellite: Tecnologias
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::c0b:3765:392:6789%11
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.0.106
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 192.168.0.1
 
-Para ser criado esse projeto foi necess√°rio as seguintes tecnologias:
+Adaptador de t£nel isatap.{88B0DE89-1D40-4FA1-813A-E263DE3C8FCF}:
 
-- Dart
-- Flutter
-- Unity
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
 
+Adaptador de t£nel Conex∆o Local* 11:
 
-<a id="conclusion"></a>
-
-## :dart: Conclus√£o
-
-A conclus√£o desse projeto √© que, esse sistema facilitaria muito a vida das pessoas, al√©m de gerar uma melhor experi√™ncia para o cliente no qual, seria poss√≠vel uma captura de valor.
-
-Venham fazer parte desse futuro tamb√©m.
-
-
-
-<a id="license"></a>
-
-## :man_technologist: Time
-
-O nosso time √© composto pelos seguintes integrantes:
-
-- [Matheus Kildere](https://www.linkedin.com/in/matheus-kildere-35947618b/)
-
-- [Brandow Buenos](https://www.linkedin.com/in/brandowbuenos/)
-
-- [Jhonatan Costa](https://www.linkedin.com/in/jhonatan-costa-1b6074174/)
-
-- [Pedro Tcheu](https://www.linkedin.com/in/pedro-tcheu/)
-
-- [Jefferson Ferrari](https://www.linkedin.com/in/jefferson-f-b24248191/)
-Teste Planejado`0Teste Planejado`0Teste Planejado`1Teste Planejado`0Teste Planejado`1Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`10Teste Planejado`11Teste Planejado`12Teste Planejado`13Teste Planejado`14Teste Planejado`15Teste Planejado`16Teste Planejado`17Teste Planejado`18Teste Planejado`19Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`10Teste Planejado`11Teste Planejado`12Teste Planejado`13Teste Planejado`14Teste Planejado`15Teste Planejado`16Teste Planejado`17Teste Planejado`18Teste Planejado`19Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`10Teste Planejado`11Teste Planejado`12Teste Planejado`13Teste Planejado`14Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`10Teste Planejado`11Teste Planejado`12Teste Planejado`13Teste Planejado`14Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`10Teste Planejado`11Teste Planejado`12Teste Planejado`13Teste Planejado`14Teste Planejado`0Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`10Teste Planejado`11Teste Planejado`12Teste Planejado`13Teste Planejado`14Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`10Teste Planejado`11Teste Planejado`12Teste Planejado`13Teste Planejado`14Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`9Teste Planejado`10Teste Planejado`11Teste Planejado`12Teste Planejado`13Teste Planejado`14Teste Planejado`0Teste Planejado`1Teste Planejado`2Teste Planejado`3Teste Planejado`4Teste Planejado`5Teste Planejado`6Teste Planejado`7Teste Planejado`8Teste Planejado`901234567890123456789012345678901234567890123456789012345678
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
