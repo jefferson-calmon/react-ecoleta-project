@@ -19,4 +19,4 @@ Adaptador de t£nel Conex∆o Local* 11:
 
    Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
    Sufixo DNS espec°fico de conex∆o. . . . . . : 
-00 7b347db4-c038-41be-a3fc-e8043e8a49590-08410ce2-c6a1-4ee4-96ad-d2770ea00488
+00 7b347db4-c038-41be-a3fc-e8043e8a49590-08410ce2-c6a1-4ee4-96ad-d2770ea004881-25796774-380b-49a1-8bf5-3703c96f31de
