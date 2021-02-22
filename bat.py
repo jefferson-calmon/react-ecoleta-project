@@ -8,7 +8,7 @@ def commit():
 
 def editFile(id):
     with open('README.md', 'a') as file:
-        file.write(f'{str(id)} {uuid.uuid4()}')
+        file.write(f'{str(id)}-{uuid.uuid4()}')
         commit()
 
 number = int(input('>>'))
